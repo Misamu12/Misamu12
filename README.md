@@ -12,7 +12,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">About me</h2>
+<h1 data-importer="text" align="left">About me</h1>
 
 ###
 
@@ -63,22 +63,7 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Misamu12/Misamu12/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Misamu12" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Misamu12/Misamu12/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <a href="in/patrick-misamu-47400b2b9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="73" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="@MisamuPatrick24" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="73" height="40" alt="twitter logo"  />
-  </a>
-  <a href="    https://tryhackme.com/p/PikaOps0x77" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="73" height="40" alt="tryhackme logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Misamu12&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
