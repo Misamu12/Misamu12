@@ -2,12 +2,6 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Misamu12.Misamu12&"  />
-</div>
-
-###
-
 <h4 data-importer="text" align="center">My name is Patrick Misamu, and I'm a young MERN Stack Web Developer | Passionate about cybersecurity and emerging technologies | Enthusiastic, curious, and always eager to learn new technologies in the IT field.</h4>
 
 ###
