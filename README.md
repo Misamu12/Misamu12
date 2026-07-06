@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Building scalable web & mobile applications with MERN and React Native.<br>📚 Currently learning Cybersecurity, DevOps, and Network Engineering.<br>🎯 Goal: Become a Security Engineer and build impactful digital solutions.<br>🚀 Passionate about open-source, automation, and solving real-world problems.<br>🎲 Fun fact: I enjoy breaking systems... only to learn how to secure them.</p>
+<p data-importer="text" align="left">[ + ] Building scalable web & mobile applications with MERN and React Native.<br>[ + ] Currently learning Cybersecurity, DevOps, and Network Engineering.<br>[ + ] Goal: Become a Security Engineer and build impactful digital solutions.<br>[ + ] Passionate about open-source, automation, and solving real-world problems.<br>[ + ] Fun fact: I enjoy breaking systems... only to learn how to secure them.</p>
 
 ###
 
