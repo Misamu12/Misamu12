@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="center">My name is Patrick Misamu, and I'm a young MERN Stack Web Developer | Passionate about cybersecurity and emerging technologies | Enthusiastic, curious, and always eager to learn new technologies in the IT field.</h4>
+<h4 data-importer="text" align="center">My name is Patrick Misamu, and I'm a young MERN Stack Developer | Passionate about cybersecurity and emerging technologies | Enthusiastic, curious, and always eager to learn new technologies in the IT field.</h4>
 
 ###
 
